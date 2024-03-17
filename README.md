@@ -5,4 +5,4 @@ I decided to release the first release of Ethic since the source was shared, thi
 __https://discord.gg/external__
 
 
-`Contact Me:` 1145960835773120543 ** < - ** Discord
+`Contact Me:` 1145960835773120543 
